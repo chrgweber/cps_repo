@@ -4,5 +4,5 @@ b = 3
 c=a*b
 print("Wichtig",a)
 d=4
-def zweite_funktion(d):
-    return(a*d)
+def zweite_funktion(a,c):
+    return (a*c)
