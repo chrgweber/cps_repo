@@ -8,3 +8,4 @@ def zweite_funktion(a,c):
     return (a*c)
 ddd
 ggg
+# Noch etwas geändert
